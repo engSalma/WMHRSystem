@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.workmotion.net",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "HRSystem",
+    "packageName": "com.workmotion.net",
+    "packageFolder": "com/workmotion/net",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTkyYmY2ZDdkMWNmZWUyMDA3ZDVkMmRjNDRhZTllMmM1NzI2MTUyYzRmMWJmMDNjZjcwZTE1NmFhZDlkN2VlMTYzODA2MWM4ODExMjFjOGQzZDQ2NDdhZWUyNTkwZWExNjRiZTYzNmUyNDI4MzI2NjM3MDVjNjk2OTZkZDg5ZWI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "simplex",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1622185615533,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "lastLiquibaseTimestamp": 1622191197000
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String",
+      "fieldValidateRules": []
+    },
+    {
+      "fieldName": "dateOfBirth",
+      "fieldType": "LocalDate",
+      "fieldValidateRules": []
+    },
+    {
+      "fieldName": "status",
+      "fieldType": "HiringStatus",
+      "fieldValues": "ADDED,INCHECK,APPROVED,ACTIVE",
+      "fieldValidateRules": []
+    },
+    {
+      "fieldName": "phoneNO",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20210528083957",
+  "dto": "no",
+  "searchEngine": false,
+  "service": "serviceImpl",
+  "entityTableName": "employee",
+  "databaseType": "sql",
+  "readOnly": false,
+  "jpaMetamodelFiltering": false,
+  "pagination": "pagination"
+}

@@ -1,0 +1,11 @@
+{
+  "hrSystemApp": {
+    "HiringStatus": {
+      "null": "",
+      "ADDED": "ADDED",
+      "INCHECK": "INCHECK",
+      "APPROVED": "APPROVED",
+      "ACTIVE": "ACTIVE"
+    }
+  }
+}
